@@ -29,7 +29,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgba(226, 66, 141, 0.35);
+    background-color: #eb9898;
     padding: 5px 10px;
     border-radius: 5px;
     cursor: pointer;
@@ -49,8 +49,9 @@ body {
   }
   
   #tasks div {
-    border: 3px solid #abcea1;
-    background-color: #e2eede;
+    color: #6b5353;
+    border: 3px solid #f75063;
+    background-color: #eb9898;
     border-radius: 6px;
     padding: 5px;
     display: grid;
